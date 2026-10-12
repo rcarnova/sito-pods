@@ -134,15 +134,15 @@ HTML = f'''<!doctype html>
   <div class="cards">
     <article class="card card-y" data-rv>
       <header><h3>Intelligenti,<br>non artificiali</h3>{ICON_AI}</header>
-      <p data-more>Con il programma <strong>“Intelligenti, non artificiali”</strong> abbiamo avviato nelle scuole superiori percorsi di approfondimento e sfide pratiche d’istituto per <strong>educare all’uso etico delle tecnologie intelligenti.</strong> Gli <em>studenti utilizzano la tecnologia come acceleratore</em> per elaborare risposte a problemi reali posti dalle imprese, mentre i <em>docenti valutano la tenuta logica</em> del ragionamento.</p>
+      <p data-more>Con il programma <strong>“Intelligenti, non artificiali”</strong> avviamo nelle scuole superiori percorsi di approfondimento e sfide pratiche d’istituto per <strong>educare all’uso etico delle tecnologie intelligenti.</strong> Gli <em>studenti utilizzeranno la tecnologia come acceleratore</em> per elaborare risposte a problemi reali posti dalle imprese, mentre i <em>docenti valuteranno la tenuta logica</em> del ragionamento.</p>
     </article>
     <article class="card card-p" data-rv>
       <header><h3>Mentoring<br>&amp; Coaching</h3>{ICON_PEOPLE}</header>
-      <p data-more>In collaborazione con alcune <strong>associazioni universitarie</strong>, abbiamo progettato un <strong>programma pro bono di mentoring</strong> e affiancamento per gli studenti universitari, dedicato allo sviluppo delle competenze trasversali e all’orientamento professionale.</p>
+      <p data-more>In collaborazione con alcune <strong>associazioni universitarie</strong>, stiamo progettando un <strong>programma pro bono di mentoring</strong> e affiancamento per gli studenti universitari, dedicato allo sviluppo delle competenze trasversali e all’orientamento professionale.</p>
     </article>
     <article class="card card-b" data-rv>
       <header><h3>Branding e<br>ascolto pubblico</h3>{ICON_CHAT}</header>
-      <p data-more>Per il <strong>Dipartimento DIGSPES di UPO</strong> abbiamo co-progettato il <strong>“Corso di Formazione in Branding e ascolto pubblico”</strong> ad Alessandria, combinando laboratori urbani, seminari diffusi e lo sviluppo di applicazioni ad uso della collettività.</p>
+      <p data-more>Per il <strong>Dipartimento DIGSPES di UPO</strong> co-progettiamo il <strong>“Corso di Formazione in Branding e ascolto pubblico”</strong> ad Alessandria, che combinerà laboratori urbani, seminari diffusi e lo sviluppo di applicazioni ad uso della collettività.</p>
     </article>
   </div>
 </section>

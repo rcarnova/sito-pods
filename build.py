@@ -261,8 +261,10 @@ HTML = f'''<!doctype html>
   <div class="foot">
     <div class="foot-logo">{letters('foot-wordmark', full=True)}<span class="sr">PODS, Piemonte Orientale Digitale e Solidale</span></div>
     <address>
-      <p>Associazione Piemonte Orientale Digitale e Solidale, PODS</p>
+      <p>Piemonte Orientale Digitale e Solidale APS ETS, PODS</p>
+      <p>Sede legale: via Gaudenzio Ferrari 17, 13100 Vercelli</p>
       <p>Codice fiscale 94047260024</p>
+      <p>Iscritta al RUNTS, sezione Associazioni di promozione sociale</p>
       <p><a href="mailto:info@associazione-pods.it">info@associazione-pods.it</a></p>
     </address>
     <p class="copy">© 2026 PODS</p>
